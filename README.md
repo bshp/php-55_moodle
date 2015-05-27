@@ -10,3 +10,5 @@ Step 2: copy the contents of /etc
 
 Restart Apache
 
+*Note: All PHP binaries and extensions will be placed in the default Ubuntu locations. PHP-CLI is built into the standard PHP Binary.
+
