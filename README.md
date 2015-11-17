@@ -12,7 +12,7 @@ Step 1: sudo service apache2 stop
 
 Step 2: wget https://github.com/bshp/php-55_moodle/blob/master/php_5.5.25-1_amd64.deb
 
-Step 3: dpkg -i php_5.5.25-2_amd64.deb
+Step 3: dpkg -i php_5.5.25-1_amd64.deb
 
 Step 4: copy contents of /etc/php5/apache2
 
